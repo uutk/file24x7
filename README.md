@@ -1,5 +1,13 @@
 # tgfilestream
 A Telegram bot that can stream Telegram files to users over HTTP.
+# [UploaditRoBot](https://t.me/UploadItRobot)
+Simple URL uploader bot for Telegram - Based on MadelineProto
+You can use with 2 methods:
+
+## Deploy with Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+1-) Deploy it and run `http://{yourappname}.herokuapp.com/fileassistantbot.php`
 
 ## Setup
 Install dependencies (see [requirements.txt](/requirements.txt)), configure
